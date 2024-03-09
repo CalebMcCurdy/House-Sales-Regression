@@ -9,7 +9,7 @@ To use this project, first clone the repository onto your local machine using th
 
 git init
 
-git clone https://github.com/CalebMcCurdy/House-Sales.git
+git clone https://github.com/CalebMcCurdy/House-Sales-Regression.git
 
 ## Project Intro/Objective
 
